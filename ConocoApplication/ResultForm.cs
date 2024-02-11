@@ -39,14 +39,14 @@ namespace ConocoApplication
 
         }
 
-<<<<<<< HEAD
+
         private void tabPage2_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void chart1_Click(object sender, EventArgs e)
-=======
+        private void chart1_Click(object sender, EventArgs e) { }
+
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {
             //if (tabControl1.SelectedTab == tabMap)
@@ -74,7 +74,16 @@ namespace ConocoApplication
         }
 
         private void label1_Click_1(object sender, EventArgs e)
->>>>>>> ef8332772d2218a3a941d8538351690a5eebcf60
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
         {
 
         }

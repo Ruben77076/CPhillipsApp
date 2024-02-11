@@ -198,10 +198,7 @@
         private Label ErrorLabel;
 
         private Label label4;
-<<<<<<< HEAD
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
-=======
 
->>>>>>> ef8332772d2218a3a941d8538351690a5eebcf60
     }
 }
