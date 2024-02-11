@@ -2,25 +2,24 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Update="Countries\FormAlaska.cs">
+      <SubType>Form</SubType>
+    </Compile>
+=======
+    <Compile Update="Countries\FormCambodia.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Countries\FormAustralia.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Countries\FormCambodia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Countries\FormCanada.cs">
+    <Compile Update="Countries\FormJapan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Countries\FormChina.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Countries\FormColumbia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Countries\FormJapan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Countries\FormLibya.cs">
@@ -41,6 +40,13 @@
     <Compile Update="Countries\FormUSA.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Countries\FormAlaska.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormCanada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
