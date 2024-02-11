@@ -30,6 +30,8 @@ namespace ConocoApplication
                 form.Show();
                 form.Visible = false;
                 this.Show();
+
+                /*string rawCSV = System.IO.File.ReadAllText("")*/
             }
             else
             {

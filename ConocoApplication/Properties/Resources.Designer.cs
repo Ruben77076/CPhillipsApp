@@ -61,6 +61,22 @@ namespace ConocoApplication.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ,,USA,Canada,Norway/UK,Australia,All Others,Total
+        ///,,,,,,,
+        ///  CO2 from Operations,,&quot;6,129&quot;,&quot;3,217&quot;,&quot;1,094&quot;,&quot;2,104&quot;,685,&quot;13,228&quot;
+        ///  CO2 from Imported Electricity,,711,336,14,0,&lt;1,&quot;1,060&quot;
+        ///  Methane (CO2e) ,,&quot;1,593&quot;,46,27,28,10,&quot;1,704&quot;
+        ///  Nitrous Oxide (CO2e) ,,8,7,4,2,1,21
+        ///Total Greenhouse Gases ,,&quot;8,441&quot;,&quot;3,605&quot;,&quot;1,138&quot;,&quot;2,134&quot;,697,&quot;16,014&quot;
+        ///.
+        /// </summary>
+        internal static string chart_by_country {
+            get {
+                return ResourceManager.GetString("chart_by_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap conocoGlobe {
