@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c90bb2be67b6bad854f6d2923e2b091e3bb2dbc")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7255bbbf64b260c33a7da3c4b3971bd91fbedf9")]
 >>>>>>> main
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e89edc58bb0ef00471e796f31fce96b1a0acda6")]
+>>>>>>> 0039ca849d32d7e1afd53046c1a36cc61a0fda83
 [assembly: System.Reflection.AssemblyProductAttribute("ConocoApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConocoApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
