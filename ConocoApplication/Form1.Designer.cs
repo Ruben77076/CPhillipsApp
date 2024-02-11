@@ -29,9 +29,8 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-<<<<<<< HEAD
             label2 = new Label();
-=======
+
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
             comboBox1 = new ComboBox();
@@ -39,7 +38,6 @@
             label2 = new Label();
             button1 = new Button();
             label3 = new Label();
->>>>>>> 8162aac89d6ea3dc267deb91ea4e2520fe92f4de
             SuspendLayout();
             // 
             // label1
@@ -133,10 +131,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-<<<<<<< HEAD
-            ClientSize = new Size(800, 450);
-            Controls.Add(label2);
-=======
+
             ClientSize = new Size(431, 211);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -167,6 +162,5 @@
         private Label label2;
         private Button button1;
         private Label label3;
->>>>>>> 8162aac89d6ea3dc267deb91ea4e2520fe92f4de
     }
 }
