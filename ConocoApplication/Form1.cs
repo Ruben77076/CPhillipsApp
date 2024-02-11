@@ -2,6 +2,7 @@ namespace ConocoApplication
 {
     public partial class Form1 : Form
     {
+        public static string country;
         public Form1()
         {
             InitializeComponent();
@@ -28,8 +29,6 @@ namespace ConocoApplication
                 this.Hide();
                 ResultForm form = new ResultForm();
                 form.Show();
-                form.Visible = false;
-                this.Show();
             }
             else
             {
@@ -39,7 +38,12 @@ namespace ConocoApplication
 
         private void Form1_Load(object sender, EventArgs e)
         {
+        }
 
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.comboBox1.Focus();
+            country = (string)this.comboBox1.SelectedItem;
         }
     }
 }

@@ -4,7 +4,7 @@
 
   class csvReader
   {
-      static void Main()
+      static void CsvFolder()
       {
           string filePath = "2016_coco_emissions.csv";
           List<string> countries;
