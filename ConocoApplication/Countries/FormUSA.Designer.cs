@@ -44,13 +44,15 @@
             // 
             // txtUSA
             // 
+            txtUSA.BackColor = SystemColors.ActiveCaption;
             txtUSA.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtUSA.Location = new Point(290, 299);
+            txtUSA.Location = new Point(231, 99);
             txtUSA.Multiline = true;
             txtUSA.Name = "txtUSA";
             txtUSA.Size = new Size(443, 202);
             txtUSA.TabIndex = 1;
-            txtUSA.Text = "3 million ppm";
+            txtUSA.Text = "8,441 thousand tonnes";
+            txtUSA.TextAlign = HorizontalAlignment.Center;
             // 
             // FormUSA
             // 

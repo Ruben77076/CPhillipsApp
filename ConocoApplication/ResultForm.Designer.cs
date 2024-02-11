@@ -31,11 +31,13 @@
             headingLabel = new Label();
             tabControl1 = new TabControl();
             tabBar = new TabPage();
-            tabMap = new TabPage();
             barHeading = new Label();
+            tabMap = new TabPage();
+            pictureBox1 = new PictureBox();
             tabControl1.SuspendLayout();
             tabBar.SuspendLayout();
             tabMap.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // headingLabel
@@ -78,21 +80,6 @@
             tabBar.UseVisualStyleBackColor = true;
             tabBar.Click += tabBar_Click;
             // 
-            // tabMap
-            // 
-            tabMap.BackgroundImage = Properties.Resources.CP_lngPlant;
-            tabMap.BackgroundImageLayout = ImageLayout.Stretch;
-            tabMap.Controls.Add(headingLabel);
-            tabMap.Location = new Point(8, 46);
-            tabMap.Margin = new Padding(6);
-            tabMap.Name = "tabMap";
-            tabMap.Padding = new Padding(6);
-            tabMap.Size = new Size(1470, 906);
-            tabMap.TabIndex = 0;
-            tabMap.Text = "Global Map";
-            tabMap.UseVisualStyleBackColor = true;
-            tabMap.Click += tabPage1_Click;
-            // 
             // barHeading
             // 
             barHeading.AutoSize = true;
@@ -104,6 +91,33 @@
             barHeading.TabIndex = 2;
             barHeading.Text = " 's sustanability report";
             barHeading.Click += label1_Click_1;
+            // 
+            // tabMap
+            // 
+            tabMap.BackgroundImage = Properties.Resources.CP_lngPlant;
+            tabMap.BackgroundImageLayout = ImageLayout.Stretch;
+            tabMap.Controls.Add(pictureBox1);
+            tabMap.Controls.Add(headingLabel);
+            tabMap.Location = new Point(8, 46);
+            tabMap.Margin = new Padding(6);
+            tabMap.Name = "tabMap";
+            tabMap.Padding = new Padding(6);
+            tabMap.Size = new Size(1470, 906);
+            tabMap.TabIndex = 0;
+            tabMap.Text = "Global Map";
+            tabMap.UseVisualStyleBackColor = true;
+            tabMap.Click += tabPage1_Click;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.usa;
+            pictureBox1.Location = new Point(46, 90);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(1360, 739);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox1.TabIndex = 2;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // ResultForm
             // 
@@ -122,6 +136,7 @@
             tabBar.PerformLayout();
             tabMap.ResumeLayout(false);
             tabMap.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -132,5 +147,6 @@
         private TabPage tabMap;
         private TabPage tabBar;
         private Label barHeading;
+        private PictureBox pictureBox1;
     }
 }

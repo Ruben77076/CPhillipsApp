@@ -69,5 +69,17 @@ namespace ConocoApplication
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            if (Form1.country == "USA")
+            {
+                pictureBox1.Image = Properties.Resources.usa;
+            }
+            else
+            {
+                return;
+            }
+        }
     }
 }
