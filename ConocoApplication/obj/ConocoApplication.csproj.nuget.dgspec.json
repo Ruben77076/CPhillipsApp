@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj": {}
+    "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj": {
+    "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
         "projectName": "ConocoApplication",
-        "projectPath": "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
-        "packagesPath": "C:\\Users\\rrrst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\obj\\",
+        "projectPath": "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
+        "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rrrst\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
