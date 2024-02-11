@@ -21,6 +21,7 @@ namespace ConocoApplication
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
 
             if ((this.checkBox1.Checked || this.checkBox2.Checked) && this.comboBox1.SelectedIndex != -1 && this.comboBox2.SelectedIndex != -1)
@@ -29,6 +30,17 @@ namespace ConocoApplication
                 ResultForm form = new ResultForm();
                 form.ShowDialog();
                 form.Visible = false;
+=======
+
+
+            if ((this.checkBox1.Checked || this.checkBox1.Checked) && this.comboBox1.SelectedIndex != -1 && this.comboBox2.SelectedIndex != -1)
+            {
+                this.Hide();
+                ResultForm form = new ResultForm();
+                form.Show();
+                form.Visible = false;
+                this.Show();
+>>>>>>> e6c69d0445df3954f7df1d102412153537779d74
             }
             else
             {
