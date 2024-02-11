@@ -1,17 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
   <ItemGroup>
-<<<<<<< HEAD
+    <Compile Update="Countries\FormCambodia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormAustralia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormJapan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormChina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormColumbia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormLibya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormMalaysia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormNorway.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormQatar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormUK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormUSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormAlaska.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Countries\FormCanada.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ResultForm.cs">
-=======
-    <Compile Update="Countries\FormAlaska.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Form1.cs">
->>>>>>> c79d58c571071e1e7fe65160748fab7131cb38ea
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
