@@ -38,6 +38,7 @@
             button1 = new Button();
             ErrorLabel = new Label();
             label4 = new Label();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             SuspendLayout();
             // 
             // label1
@@ -136,6 +137,10 @@
             label4.TabIndex = 9;
             label4.Text = "Quality:";
             // 
+            // backgroundWorker1
+            // 
+            backgroundWorker1.DoWork += backgroundWorker1_DoWork;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -170,5 +175,6 @@
         private Button button1;
         private Label ErrorLabel;
         private Label label4;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }

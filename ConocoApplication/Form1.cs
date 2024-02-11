@@ -38,12 +38,23 @@ namespace ConocoApplication
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             this.comboBox1.Focus();
             country = (string)this.comboBox1.SelectedItem;
+        }
+
+        private void backgroundWorker1_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
+        {
+
+        }
+
+        private void toolStripContainer1_ContentPanel_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
