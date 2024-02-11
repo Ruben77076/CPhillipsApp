@@ -21,6 +21,14 @@ namespace ConocoApplication
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+
+            if ((this.checkBox1.Checked || this.checkBox1.Checked) && this.comboBox1.SelectedIndex != -1 && this.comboBox2.SelectedIndex != -1)
+            {
+                this.Hide();
+                ResultForm form = new ResultForm();
+                form.Show();
+=======
             if (this.comboBox1.SelectedIndex != -1 )
             {
                 this.Hide();
@@ -29,7 +37,17 @@ namespace ConocoApplication
                 form.Visible = false;
                 this.Show();
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             }
+            else
+            {
+                this.ErrorLabel.Text = "Invalid: Select at least one option in all fields.";
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

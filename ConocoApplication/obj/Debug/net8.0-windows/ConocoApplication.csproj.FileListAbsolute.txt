@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormAlaska.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Form1.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Properties.Resources.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.ResultForm.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.csproj.GenerateResource.cache
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.AssemblyInfoInputs.cache
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.AssemblyInfo.cs
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.csproj.CoreCompileInputs.cache
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.sourcelink.json
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\bin\Debug\net8.0-windows\ConocoApplication.exe
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\bin\Debug\net8.0-windows\ConocoApplication.deps.json
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\bin\Debug\net8.0-windows\ConocoApplication.runtimeconfig.json
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\bin\Debug\net8.0-windows\ConocoApplication.dll
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\bin\Debug\net8.0-windows\ConocoApplication.pdb
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.dll
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\refint\ConocoApplication.dll
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.pdb
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.genruntimeconfig.cache
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ref\ConocoApplication.dll
+=======
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormAlaska.resources
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormAustralia.resources
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormCambodia.resources
@@ -30,3 +52,4 @@ C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-wind
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.pdb
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.genruntimeconfig.cache
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ref\ConocoApplication.dll
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53

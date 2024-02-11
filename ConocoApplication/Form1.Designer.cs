@@ -29,17 +29,24 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+<<<<<<< HEAD
+            label2 = new Label();
+=======
 
             label2 = new Label();
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
             comboBox1 = new ComboBox();
             comboBox2 = new ComboBox();
-            label2 = new Label();
-            button1 = new Button();
             label3 = new Label();
+<<<<<<< HEAD
+            button1 = new Button();
+            ErrorLabel = new Label();
+=======
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             SuspendLayout();
             // 
             // label1
@@ -52,6 +59,15 @@
             label1.TabIndex = 0;
             label1.Text = "Country:";
             label1.Click += label1_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(43, 232);
+            label2.Name = "label2";
+            label2.Size = new Size(97, 15);
+            label2.TabIndex = 1;
+            label2.Text = "Can u c this one?";
             // 
             // checkBox1
             // 
@@ -92,14 +108,14 @@
             comboBox2.Size = new Size(160, 23);
             comboBox2.TabIndex = 4;
             // 
-            // label2
+            // label3
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(233, 27);
-            label2.Name = "label2";
-            label2.Size = new Size(48, 15);
-            label2.TabIndex = 5;
-            label2.Text = "Quality:";
+            label3.AutoSize = true;
+            label3.Location = new Point(32, 92);
+            label3.Name = "label3";
+            label3.Size = new Size(42, 15);
+            label3.TabIndex = 7;
+            label3.Text = "Year(s)";
             // 
             // button1
             // 
@@ -111,33 +127,27 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // label3
+            // ErrorLabel
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(32, 92);
-            label3.Name = "label3";
-            label3.Size = new Size(42, 15);
-            label3.TabIndex = 7;
-            label3.Text = "Year(s)";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(43, 232);
-            label2.Name = "label2";
-            label2.Size = new Size(198, 32);
-            label2.TabIndex = 1;
-            label2.Text = "Can u c this one?";
+            ErrorLabel.AutoSize = true;
+            ErrorLabel.Location = new Point(132, 119);
+            ErrorLabel.Name = "ErrorLabel";
+            ErrorLabel.Size = new Size(0, 15);
+            ErrorLabel.TabIndex = 8;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+<<<<<<< HEAD
+=======
 
             ClientSize = new Size(800, 450);
             Controls.Add(label2);
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             ClientSize = new Size(431, 211);
+            Controls.Add(ErrorLabel);
             Controls.Add(label3);
             Controls.Add(button1);
             Controls.Add(label2);
@@ -145,11 +155,13 @@
             Controls.Add(comboBox1);
             Controls.Add(checkBox2);
             Controls.Add(checkBox1);
+<<<<<<< HEAD
+=======
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             Controls.Add(label1);
-            Margin = new Padding(2, 1, 2, 1);
             Name = "Form1";
-            Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -157,15 +169,22 @@
         #endregion
 
         private Label label1;
+<<<<<<< HEAD
+=======
 
         //private Label label2;
 
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
         private CheckBox checkBox1;
         private CheckBox checkBox2;
         private ComboBox comboBox1;
         private ComboBox comboBox2;
         private Label label2;
-        private Button button1;
         private Label label3;
+<<<<<<< HEAD
+        private Button button1;
+        private Label ErrorLabel;
+=======
+>>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
     }
 }

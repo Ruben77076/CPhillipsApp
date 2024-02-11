@@ -40,7 +40,6 @@
             label1.Size = new Size(413, 54);
             label1.TabIndex = 0;
             label1.Text = " 's sustanability report";
-            label1.Click += label1_Click;
             // 
             // ResultForm
             // 
