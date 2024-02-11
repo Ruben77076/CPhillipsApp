@@ -34,18 +34,21 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(156, 60);
+            label1.Location = new Point(84, 28);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(256, 32);
+            label1.Size = new Size(21, 15);
             label1.TabIndex = 0;
-            label1.Text = "Can you see me Ryan?";
+            label1.Text = "no";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(431, 211);
             Controls.Add(label1);
+            Margin = new Padding(2, 1, 2, 1);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
