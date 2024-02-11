@@ -109,6 +109,7 @@
             button1.TabIndex = 6;
             button1.Text = "Fetch";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label3
             // 

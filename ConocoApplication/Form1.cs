@@ -16,5 +16,16 @@ namespace ConocoApplication
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (this.comboBox1.SelectedIndex != -1 && )
+            {
+                this.Hide();
+                ResultForm form = new ResultForm();
+                form.Show();
+
+            }
+        }
     }
 }
