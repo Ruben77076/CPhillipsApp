@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qBxZvEQVGL0EyyaY0ljupyhLR1m5C6dGANMD5dfgchbQL1LSMt3aHH8vbLE1XV+t2eT27YBBz9KF4JxUgbEXdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rrrst\\Repositories\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
@@ -40,4 +41,11 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "FS1+Adq6UWCVAEDaJnxD0SDs5yjXLrgi5/5oGmgnq41ZNxkMbWHJIFgUQbWrWGAGtZHSTzZGU68wknmwNXVLQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruben\\source\\repos\\CPhillipsApp\\ConocoApplication\\ConocoApplication.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> ef8332772d2218a3a941d8538351690a5eebcf60
 }
