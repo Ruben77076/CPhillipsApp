@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConocoApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae0e95f6b097703ed7d2373ebc21980cd702022")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f6ad68e2a5044f226a3bdae79d30555117b86e")]
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56379f89faa58a2d8e692a28a9b79a9ecc4993a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConocoApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConocoApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

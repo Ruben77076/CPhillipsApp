@@ -29,24 +29,15 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-<<<<<<< HEAD
             label2 = new Label();
-=======
-
-            label2 = new Label();
-
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
             comboBox1 = new ComboBox();
             comboBox2 = new ComboBox();
             label3 = new Label();
-<<<<<<< HEAD
             button1 = new Button();
             ErrorLabel = new Label();
-=======
-
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
+            label4 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -135,18 +126,21 @@
             ErrorLabel.Size = new Size(0, 15);
             ErrorLabel.TabIndex = 8;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(233, 27);
+            label4.Name = "label4";
+            label4.Size = new Size(48, 15);
+            label4.TabIndex = 9;
+            label4.Text = "Quality:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-<<<<<<< HEAD
-=======
-
-            ClientSize = new Size(800, 450);
-            Controls.Add(label2);
-
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             ClientSize = new Size(431, 211);
+            Controls.Add(label4);
             Controls.Add(ErrorLabel);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -155,10 +149,6 @@
             Controls.Add(comboBox1);
             Controls.Add(checkBox2);
             Controls.Add(checkBox1);
-<<<<<<< HEAD
-=======
-
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
             Controls.Add(label1);
             Name = "Form1";
             Load += Form1_Load;
@@ -169,22 +159,15 @@
         #endregion
 
         private Label label1;
-<<<<<<< HEAD
-=======
 
-        //private Label label2;
-
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
         private CheckBox checkBox1;
         private CheckBox checkBox2;
         private ComboBox comboBox1;
         private ComboBox comboBox2;
         private Label label2;
         private Label label3;
-<<<<<<< HEAD
         private Button button1;
         private Label ErrorLabel;
-=======
->>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
+        private Label label4;
     }
 }

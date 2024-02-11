@@ -53,3 +53,15 @@ C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-wind
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.genruntimeconfig.cache
 C:\Users\ruben\source\repos\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ref\ConocoApplication.dll
 >>>>>>> 60bb0c29454fd88ad162f78079d380f3cf4b7b53
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormAustralia.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormCambodia.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormCanada.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormChina.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormColumbia.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormJapan.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormLibya.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormMalaysia.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormNorway.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormQatar.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormUK.resources
+C:\Users\rrrst\Repositories\CPhillipsApp\ConocoApplication\obj\Debug\net8.0-windows\ConocoApplication.Countries.FormUSA.resources

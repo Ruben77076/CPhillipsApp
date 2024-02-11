@@ -19,7 +19,6 @@ namespace ConocoApplication
 
         private void ResultForm_Load(object sender, EventArgs e)
         {
-
         }
     }
 }
