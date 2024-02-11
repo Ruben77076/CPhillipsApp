@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConocoApplication", "ConocoApplication.csproj", "{FF463AF3-6838-4852-8A32-8D7351324636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF463AF3-6838-4852-8A32-8D7351324636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF463AF3-6838-4852-8A32-8D7351324636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF463AF3-6838-4852-8A32-8D7351324636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF463AF3-6838-4852-8A32-8D7351324636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDB96D4-BA66-4DF3-AB86-7116E4C2F704}
+	EndGlobalSection
+EndGlobal
