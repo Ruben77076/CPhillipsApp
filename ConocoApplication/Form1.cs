@@ -29,13 +29,9 @@ namespace ConocoApplication
                 this.Hide();
                 ResultForm form = new ResultForm();
                 form.Show();
-<<<<<<< HEAD
-                form.Visible = false;
-                this.Show();
 
                 /*string rawCSV = System.IO.File.ReadAllText("")*/
-=======
->>>>>>> 0039ca849d32d7e1afd53046c1a36cc61a0fda83
+
             }
             else
             {
