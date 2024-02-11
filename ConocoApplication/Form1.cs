@@ -24,7 +24,7 @@ namespace ConocoApplication
         {
 
 
-            if ((this.checkBox1.Checked || this.checkBox1.Checked) && this.comboBox1.SelectedIndex != -1 && this.comboBox2.SelectedIndex != -1)
+            if ((this.checkBox1.Checked || this.checkBox2.Checked) && this.comboBox1.SelectedIndex != -1 && this.comboBox2.SelectedIndex != -1)
             {
                 this.Hide();
                 ResultForm form = new ResultForm();
