@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ConocoApplication",
     "\\ConocoApplication\\Properties"
   ],
-  "SelectedNode": "\\ConocoApplication",
+  "SelectedNode": "\\ConocoApplication\\ConocoApplication.sln",
   "PreviewInSolutionExplorer": false
 }
