@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+<<<<<<< HEAD
+            label2 = new Label();
+=======
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
             comboBox1 = new ComboBox();
@@ -36,6 +39,7 @@
             label2 = new Label();
             button1 = new Button();
             label3 = new Label();
+>>>>>>> 8162aac89d6ea3dc267deb91ea4e2520fe92f4de
             SuspendLayout();
             // 
             // label1
@@ -115,10 +119,23 @@
             label3.TabIndex = 7;
             label3.Text = "Year(s)";
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(43, 232);
+            label2.Name = "label2";
+            label2.Size = new Size(198, 32);
+            label2.TabIndex = 1;
+            label2.Text = "Can u c this one?";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+<<<<<<< HEAD
+            ClientSize = new Size(800, 450);
+            Controls.Add(label2);
+=======
             ClientSize = new Size(431, 211);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -127,6 +144,7 @@
             Controls.Add(comboBox1);
             Controls.Add(checkBox2);
             Controls.Add(checkBox1);
+>>>>>>> 8162aac89d6ea3dc267deb91ea4e2520fe92f4de
             Controls.Add(label1);
             Margin = new Padding(2, 1, 2, 1);
             Name = "Form1";
@@ -138,6 +156,9 @@
         #endregion
 
         private Label label1;
+<<<<<<< HEAD
+        private Label label2;
+=======
         private CheckBox checkBox1;
         private CheckBox checkBox2;
         private ComboBox comboBox1;
@@ -145,5 +166,6 @@
         private Label label2;
         private Button button1;
         private Label label3;
+>>>>>>> 8162aac89d6ea3dc267deb91ea4e2520fe92f4de
     }
 }
