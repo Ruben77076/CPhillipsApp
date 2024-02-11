@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ResultForm.cs">
+=======
+    <Compile Update="Countries\FormAlaska.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+>>>>>>> c79d58c571071e1e7fe65160748fab7131cb38ea
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
