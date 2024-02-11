@@ -1,6 +1,6 @@
 ﻿namespace ConocoApplication.Countries
 {
-    partial class FormCanada
+    partial class FormUK
     {
         /// <summary>
         /// Required designer variable.
@@ -28,48 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            pixCanada = new PictureBox();
-            txtCanada = new TextBox();
-            ((System.ComponentModel.ISupportInitialize)pixCanada).BeginInit();
+            pixUK = new PictureBox();
+            txtUK = new TextBox();
+            ((System.ComponentModel.ISupportInitialize)pixUK).BeginInit();
             SuspendLayout();
             // 
-            // pixCanada
+            // pixUK
             // 
-            pixCanada.Image = Properties.Resources.conocoGlobe;
-            pixCanada.Location = new Point(1, 3);
-            pixCanada.Name = "pixCanada";
-            pixCanada.Size = new Size(1753, 823);
-            pixCanada.SizeMode = PictureBoxSizeMode.StretchImage;
-            pixCanada.TabIndex = 0;
-            pixCanada.TabStop = false;
+            pixUK.Image = Properties.Resources.conocoGlobe;
+            pixUK.Location = new Point(2, -1);
+            pixUK.Name = "pixUK";
+            pixUK.Size = new Size(1753, 830);
+            pixUK.SizeMode = PictureBoxSizeMode.StretchImage;
+            pixUK.TabIndex = 0;
+            pixUK.TabStop = false;
             // 
-            // txtCanada
+            // txtUK
             // 
-            txtCanada.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtCanada.Location = new Point(210, 241);
-            txtCanada.Multiline = true;
-            txtCanada.Name = "txtCanada";
-            txtCanada.Size = new Size(445, 174);
-            txtCanada.TabIndex = 1;
-            txtCanada.Text = "2 million ppm";
+            txtUK.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtUK.Location = new Point(644, 234);
+            txtUK.Multiline = true;
+            txtUK.Name = "txtUK";
+            txtUK.Size = new Size(362, 193);
+            txtUK.TabIndex = 1;
+            txtUK.Text = "5 million ppm";
             // 
-            // FormCanada
+            // FormUK
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1754, 829);
-            Controls.Add(txtCanada);
-            Controls.Add(pixCanada);
-            Name = "FormCanada";
+            Controls.Add(txtUK);
+            Controls.Add(pixUK);
+            Name = "FormUK";
             Text = "ConocoPhillips Global Map";
-            ((System.ComponentModel.ISupportInitialize)pixCanada).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pixUK).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private PictureBox pixCanada;
-        private TextBox txtCanada;
+        private PictureBox pixUK;
+        private TextBox txtUK;
     }
 }
